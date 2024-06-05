@@ -1,4 +1,6 @@
 # TAF (The Archive Framework)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FRana-KV%2Ftaf.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FRana-KV%2Ftaf?ref=badge_shield)
+
 
 TAF is a framework that aims to provide archival authentication
 and ensure that Git repositories can be securely cloned/updated. TAF's implementation
@@ -147,3 +149,7 @@ taf
 ## Acknowledgements
 
 This project was made possible in part by the Institute of Museum and Library Services [(LG-246285-OLS-20)](https://www.imls.gov/grants/awarded/lg-246285-ols-20)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FRana-KV%2Ftaf.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FRana-KV%2Ftaf?ref=badge_large)
